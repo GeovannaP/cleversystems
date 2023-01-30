@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable-v24/buy_with_googlepay_button_content.xml" value="0.325" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable-v24/edit.xml" value="0.3515" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable-v24/googlepay_button_background.xml" value="0.325" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable-v24/googlepay_button_content.xml" value="0.325" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable-v24/googlepay_button_no_shadow_background.xml" value="0.325" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable-v24/googlepay_button_overlay.xml" value="0.325" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.325" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3515" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/azure_background.xml" value="0.341" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/background.xml" value="0.2115" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/background2.xml" value="0.153" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/button.xml" value="0.2075" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/cart_background.xml" value="0.197" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/container_components.xml" value="0.304" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/container_user.xml" value="0.128" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/csp_background.xml" value="0.341" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/edit.xml" value="0.3515" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/edit_text.xml" value="0.128" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/hardware_background.xml" value="0.341" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/ic_group.xml" value="0.128" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/ic_home.xml" value="0.257" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.304" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/informatica_background.xml" value="0.341" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/manage.xml" value="0.304" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/minus.xml" value="0.3515" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/plus.xml" value="0.3515" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/purple_light_banner.xml" value="0.2065" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/search_background.xml" value="0.2075" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/software_background.xml" value="0.341" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/drawable/viewholder_popular.xml" value="0.197" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_cart_list.xml" value="0.25" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_checkout.xml" value="0.18" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_form_cadastro.xml" value="0.18" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_form_login.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_intro.xml" value="0.19" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_intro2.xml" value="0.1387126019945603" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_mainl2.xml" value="0.1214868540344515" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_order_succeess.xml" value="0.25" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_place_your_order.xml" value="0.33" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_show_detail.xml" value="0.2" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_show_detail2.xml" value="0.11106074342701723" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_tela_cadastro.xml" value="0.18" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/activity_tela_login.xml" value="0.25" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/buy_with_googlepay_button.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/menu_recycler_row.xml" value="0.1" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/place_order_recycler_row.xml" value="0.5" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/telalogin.xml" value="0.21" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/viewholder_cart.xml" value="0.33" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/viewholder_category.xml" value="0.33" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/layout/viewholder_popular.xml" value="0.33" />
+        <entry key="..\:/Users/brsilg06/AndroidStudioProjects/Aplicativo2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.257" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

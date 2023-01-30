@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutContentMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Activity.TelaLoginActivity">
+
+    <ImageView
+        android:id="@+id/clever_softwares"
+        android:layout_width="364dp"
+        android:layout_height="324dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.468"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/logo"
+
+        />
+
+    <View
+        android:id="@+id/ContainerComponents"
+        style="@style/ContainerComponents"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/clever_softwares" />
+
+    <EditText
+        android:id="@+id/edit_email"
+        style="@style/Edit_text"
+        android:layout_marginTop="1dp"
+        android:autofillHints="E-mail"
+        android:drawableEnd="@drawable/ic_email"
+        android:hint="E-mail"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="@id/ContainerComponents"
+        app:layout_constraintStart_toStartOf="@+id/ContainerComponents"
+        app:layout_constraintTop_toTopOf="@id/ContainerComponents" />
+
+    <EditText
+        android:id="@+id/edit_senha"
+        style="@style/Edit_text"
+        android:autofillHints="Senha"
+        android:drawableRight="@drawable/ic_eye"
+        android:hint="Password"
+        android:inputType="numberPassword"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="@id/ContainerComponents"
+        app:layout_constraintStart_toStartOf="@+id/ContainerComponents"
+        app:layout_constraintTop_toBottomOf="@+id/edit_email" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_entrar"
+        style="@style/button"
+        android:text="Log In"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_senha" />
+
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ContainerComponents" />
+
+    <TextView
+        android:id="@+id/text_tela_cadastro"
+        android:layout_width="278dp"
+        android:layout_height="27dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="50dp"
+        android:text="@string/text_cadastro"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.484"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/progressbar" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

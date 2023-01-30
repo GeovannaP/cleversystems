@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplicativo</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="todo">TODO</string>
+    <string name="Olá">Olá,</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Não tem cadastro? Clique aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="nome">Nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="Name">inputName</string>
+    <string name="Card">inputCardNumber</string>
+    <string name="Expiry">inputCardExpiry</string>
+    <string name="Pin">inputCardPin</string>
+    <string name="Adress">inputAddress</string>
+    <string name="City">inputCity</string>
+    <string name="Zip">inputZip</string>
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <string name="menssage_conexao_criada_com_sucesso">Conexão criada com sucesso</string>
+    <string name="actions_ok">OK</string>
+    <string name="title_erro">Erro</string>
+
+
+</resources>
